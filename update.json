@@ -1,11 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "3.2.0",
+  "versionCode": 14,
+  "versionName": "3.3.0",
   "apk": [
-    "https://raw.githubusercontent.com/piyushpriyanshu/lyricist-updates/main/apk/Lyricist-3.2.0.apk",
-    "https://cdn.jsdelivr.net/gh/piyushpriyanshu/lyricist-updates@main/apk/Lyricist-3.2.0.apk"
+    "https://raw.githubusercontent.com/piyushpriyanshu/lyricist-updates/main/apk/Lyricist-3.3.0.apk",
+    "https://cdn.jsdelivr.net/gh/piyushpriyanshu/lyricist-updates@main/apk/Lyricist-3.3.0.apk"
   ],
-  "sha256": "a0ff3f3451f90119a157dccf0e2e1f2b6950b0deb22f6de01148a3784d1488e4",
-  "size": 2355806,
-  "notes": "Floating lyrics show only while a song is playing (no more overlay after the phone starts)\nLong lyric lines are shown in full in the floating lyrics, never cut off with …\nSongs from YouTube-based music apps are recognised by their real title\nTrending refreshes properly and adds Apple Music's daily chart\nAutomatic updates from GitHub"
+  "sha256": "2d3747b3e33ab9354bc3ce5805bf5926c6d3d6b62c5925aec5729ac7b53afdab",
+  "size": 2397199,
+  "notes": "Tap the floating lyrics: 4 lines, previous / play / next, and a timing nudge (lyrics earlier or later)\nFloating lyrics colours (or from the song's cover), opacity, snap to the screen edge, hide over chosen apps or games and videos\nWrong song? Pick the right one — remembered for that track; your line corrections survive lyric updates\nCollections in your library\nBack up and restore saved lyrics (Google Drive or a file)\nFind saved songs from a remembered line, even misspelt\nShare lyric cards straight to Instagram Stories\nCrash and error log in Settings → Diagnostics"
 }
