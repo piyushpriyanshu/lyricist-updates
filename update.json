@@ -1,0 +1,11 @@
+{
+  "versionCode": 13,
+  "versionName": "3.2.0",
+  "apk": [
+    "https://raw.githubusercontent.com/piyushpriyanshu/lyricist-updates/main/apk/Lyricist-3.2.0.apk",
+    "https://cdn.jsdelivr.net/gh/piyushpriyanshu/lyricist-updates@main/apk/Lyricist-3.2.0.apk"
+  ],
+  "sha256": "a0ff3f3451f90119a157dccf0e2e1f2b6950b0deb22f6de01148a3784d1488e4",
+  "size": 2355806,
+  "notes": "Floating lyrics show only while a song is playing (no more overlay after the phone starts)\nLong lyric lines are shown in full in the floating lyrics, never cut off with …\nSongs from YouTube-based music apps are recognised by their real title\nTrending refreshes properly and adds Apple Music's daily chart\nAutomatic updates from GitHub"
+}
